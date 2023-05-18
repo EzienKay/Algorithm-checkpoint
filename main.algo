@@ -1,0 +1,32 @@
+// create a function
+
+   // Counter for the length of the sentence
+  // Counter for the number of words
+  // Counter for the number of vowels
+
+  
+
+    // Increase length counter for each character
+    
+
+    // Check if the character is a space (indicating a word boundary)
+    
+
+    // Check if the character is a vowel
+    
+  // Increment word count to account for the last word
+  
+
+  // Output the results
+  
+
+// Function to check if a character is a vowel
+
+
+  // Convert the character to lowercase for comparison
+  
+
+  // Check if the character is in the vowel list
+
+
+// call result
